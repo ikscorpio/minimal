@@ -1,6 +1,22 @@
-title: Minimal theme
+title: <p align="center"> Imran Khan </p>
+title: <p align="center"> Imran Khan </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="www.linkedin.com/in/imran-khan-b991b31b/">LinkedIn</a> |
+  <a href="https://github.com/ikscorpio">GitHub</a>
+  
+  <br>   
+  I'm Telecommunication Engineer Having 13 Years OF Working Experience
+  Worked With Ericsson As A Senior Engineer On STC Project.
+  Worked with Aircel As A Deputy Manager For The Four Years.
+  Worked With Nokia For The Five Years As An RF Lead On Vodafone Project.
+  Worked With Adacel And GTL For 2.2 Years As An Optimization Lead. 
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
