@@ -1,17 +1,6 @@
-title: <p align="center"> Imran Khan </p>
+title: Minimal theme
 logo: /assets/img/logo.png
-description: 
-<p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
-  <a href="https://github.com/ikscorpio">GitHub</a>
-  
-  <br>   
-  I'm An RF Engineer Having 13 Years Of Working Experiece In Telecommunication Feild.
-  Worked with Aircel as Deputy Manager for thee years in RF Network Design and Optimization.
-  Worked with Nokia as an RF Lead for the five years on Vodafone project.
-  Working in AdTech domain for 3 years.
-  <br>
-  </p>
-
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
